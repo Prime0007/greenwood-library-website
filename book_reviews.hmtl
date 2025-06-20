@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Reviews | My Website</title>
+</head>
+<body>
+    <h1>Book Reviews</h1>
+    <nav>
+        <a href="home.html">Home</a> |
+        <a href="about_us.html">About Us</a> |
+        <a href="events.html">Events</a> |
+        <a href="contact_us.html">Contact Us</a> |
+        <a href="book_reviews.html">Book Reviews</a>
+    </nav>
+
+    <section>
+        <h2>Recent Reviews</h2>
+        <article>
+            <h3><em>“The Pragmatic Programmer”</em> by Andrew Hunt & David Thomas</h3>
+            <p>A must-read for every developer. Practical, insightful, and timeless advice on how to approach software development.</p>
+        </article>
+        <article>
+            <h3><em>“Clean Code”</em> by Robert C. Martin</h3>
+            <p>Great book for improving code readability and maintaining a high standard of software quality. A bit opinionated, but very useful.</p>
+        </article>
+        <article>
+            <h3><em>“Atomic Habits”</em> by James Clear</h3>
+            <p>Not a tech book, but incredibly helpful for productivity. Shows how small changes can lead to big results.</p>
+        </article>
+    </section>
+
+</body>
+</html>
+
